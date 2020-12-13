@@ -252,3 +252,14 @@ npm i && npm audit fix --force
 Tip: think to run the script after each npm installation modules.
 
 Après cela, les vulnérabilités doivent avoir disparues.
+
+#Vue JS : Forcer la mise à jour des dépendances
+
+## Problème
+
+Apparaissent souvent, après npm install, des problématiques de dépendances non mises à jour.
+npm outdated permet de les visualiser.
+
+## Solution
+
+[Lien procédure forcer mise à jour des dépendances](https://flaviocopes.com/update-npm-dependencies/)
